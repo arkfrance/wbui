@@ -1,0 +1,106 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 0,
+			"hideicon": false,
+			"hideiconafter": 60,
+			"iconurl": "https://i.imgur.com/azrMrVY.png",
+			"disableicontext": true,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": true,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Bienvenue",
+				"imageurl": "https://i.imgur.com/17gdmfy.png",
+				"content": [
+					{
+						"title": "Bienvenue sur les serveurs ARK France",
+						"text": "Bienvenue sur ARK France PVE,\r\n\r\nNous sommes ravis de vous accueillir sur nos serveurs dédiés au PVE, pensés pour offrir une expérience de jeu stable, conviviale et respectueuse. Que vous soyez un survivant débutant ou un vétéran d’ARK, vous trouverez ici un environnement propice à l’exploration, à la construction et à la coopération.\r\n\r\nNos serveurs mettent l’accent sur :\r\n\r\nUne communauté mature et bienveillante\r\n\r\nDes règles claires pour garantir le plaisir de tous\r\n\r\nUne administration active et à l’écoute\r\n\r\nUne progression équilibrée, sans pression du PVP\r\n\r\nNous vous invitons à prendre connaissance du règlement, à respecter les autres joueurs et à contribuer à l’esprit d’entraide qui fait la force d’ARK France depuis plus de 10 ans !\r\n\r\nPréparez-vous à dompter, construire, explorer et survivre dans les meilleures conditions.\r\n\r\nBonne aventure parmi nous,\r\nL’équipe ARK France PVE"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Règlement",
+				"imageurl": "https://i.imgur.com/meAZxne.png",
+				"content": [
+					{
+						"title": "Règlement Serveur ARK FRANCE",
+						"text": "- Interdiction de jeter les œufs de wyverns, Magmasaure, deinonychus ou de rock drake sur les cartes. Vous empêchez le respawn des oeufs dans les nids, mangez-les !\r\n- Ne pas construire sur des zones à ressources (métal, cristal, obsidienne, pingouin, nids à castor, …)\r\n- Il est interdit de spammer les fondations pour réserver une zone\r\n- Vider totalement ou détruire les nids de castors pour permettre leur repop pour les prochains joueurs.\r\n- Laissez déverrouiller les extracteurs (pétroles, gaz et sève) pour que les autres joueurs puissent y accéder.\r\n- Il est interdit de bloquer les grottes contenant des artéfacts ou des glitch (pour genesis1)\r\n- Toute action assimilée à du PVP ou cherchant à nuire à un autre joueur ou tribu sera sanctionné.\r\n- Les enclos pour apprivoiser devront être enlevés après usage\r\n- Il est interdit de bloquer les ponts et les plages. Merci de laisser un passage pour les autres joueurs.\r\n- Il est interdit de construire des enclos démesurés par rapport à votre base et au nombre de dino.\r\n- Il est interdit de laisser des dinos agressifs sur la map\r\n- Il est interdit de construire ou de mettre des tourelles dans les failles aux Wyvernes\r\n- Il est interdit de mettre des structures devant les drop et beacon pour les récupérer plus rapidement.\r\n- Il est interdit de voler les oeufs des autres tribus\r\n- Il est totalement interdit de PL (Plow Leveling) les nouveaux joueurs que ce soit en leur faisant passer les boss, en leur craftant des structures qu’ils n’ont pas encore débloquées ou en leur donnant des dinos trop fort par rapport à leur level. Cela gâche leur expérience de jeu."
+					},
+					{
+						"title": "Règlement général :",
+						"text": "- Anti-cheat Battleye actif\r\n- Utiliser un quelconque logiciel tiers (cheat) est interdit\r\n- Tous comportements et propos injurieux sont interdits\r\n- La publicité et le recrutement sur d’autres serveurs que les nôtres sont interdits\r\n- Il n'y a pas de remboursement de stuff, dino etc sur un crash du serveur. (Nous ne sommes pas responsable des crashs du jeu)\r\n"
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Gagner des levels",
+				"imageurl": "https://i.imgur.com/Dn8xcoJ.png",
+				"content": [
+					{
+						"title": "Comment gagner des niveaux ?",
+						"text": "<RichColor Color=\"1,0,0,1\">Phase 1 : Début de partie</> (Niveaux <RichColor Color=\"1,0,0,1\">1 à 60+</>)\r\n\r\nL’objectif est de sortir de l’<RichColor Color=\"1,0,0,1\">âge de pierre</> le plus rapidement possible.\r\n\r\n1. Le <RichColor Color=\"1,0,0,1\">Note Run</> (tournée des notes)\r\n\r\nMéthode <RichColor Color=\"1,0,0,1\">Méta</> absolue sur la carte <RichColor Color=\"1,0,0,1\">The Island</>.\r\n\r\nApparais en <RichColor Color=\"1,0,0,1\">Zone Ouest 2</> (West Zone 2) ou sur la <RichColor Color=\"1,0,0,1\">Herbivore Island</> (île au sud-est).\r\n\r\nCours nu et ramasse les <RichColor Color=\"1,0,0,1\">notes d’explorateur</> en série. Il existe des itinéraires optimisés (recherche : Island Note Run).\r\n\r\nRésultat : en <RichColor Color=\"1,0,0,1\">15 minutes</>, passage du niveau 1 au niveau 65–70 sans rien fabriquer.\r\n\r\n2. Le <RichColor Color=\"1,0,0,1\">spam de fabrication</> (Crafting)\r\n\r\nAlternative si tu ne fais pas le Note Run :\r\n\r\nNiv <RichColor Color=\"1,0,0,1\">1–10</> : Bonnets en tissu (faible coût, bonne XP).\r\n\r\nNiv <RichColor Color=\"1,0,0,1\">10–20</> : Radeaux en bois ou fondations en bois.\r\n\r\nNiv <RichColor Color=\"1,0,0,1\">20+</> : <RichColor Color=\"1,0,0,1\">Narcotiques</> (méthode classique).\r\n\r\nFais pousser des <RichColor Color=\"1,0,0,1\">Narcoberries</> et récolte de la viande avariée (sépare les piles : <RichColor Color=\"1,0,0,1\">Split All</>).\r\n\r\nLance la fabrication de <RichColor Color=\"1,0,0,1\">1000+</> narcotiques dans plusieurs mortiers.\r\nL’XP est partagée en tribu, mais celui qui lance la fabrication gagne le plus.\r\n\r\n<RichColor Color=\"1,0,0,1\">Phase 2 : Milieu de partie</> (Niveaux <RichColor Color=\"1,0,0,1\">60 à 80</>)\r\n\r\nAccès aux outils en métal et à des dinos performants.\r\n\r\n1. Chasse aux <RichColor Color=\"1,0,0,1\">Alphas</>\r\n\r\nLes dinos avec une aura rouge sont des <RichColor Color=\"1,0,0,1\">Alphas</> et donnent énormément d’XP.\r\n\r\nCibles : Raptor Alpha, Carno Alpha.\r\nMéthode : Argentavis ou Rex + note d’explorateur active au coup fatal.\r\n\r\n2. Le <RichColor Color=\"1,0,0,1\">Broyeur Industriel</>\r\n\r\nMéthode dite <RichColor Color=\"1,0,0,1\">riche</>.\r\n\r\nFabrique un <RichColor Color=\"1,0,0,1\">Industrial Grinder</> (niveau 64).\r\nTransforme bois ou pierre en branchages ou silex.\r\n\r\nL’XP générée est très élevée, en toute sécurité depuis ta base.\r\n\r\n<RichColor Color=\"1,0,0,1\">Phase 3 : Fin de partie</> (Niveaux <RichColor Color=\"1,0,0,1\">80 à 100+</>)\r\n\r\nL’XP devient lente et nécessite des méthodes plus agressives.\r\n\r\n1. La <RichColor Color=\"1,0,0,1\">Grotte du Marais</> (Swamp Cave) – The Island\r\n\r\nMeilleure source d’XP du jeu sur The Island.\r\n\r\nLocalisation : Biome Redwood – Coordonnées <RichColor Color=\"1,0,0,1\">62.7 / 37.3</>\r\n\r\nÉquipement : <RichColor Color=\"1,0,0,1\">Masque à gaz obligatoire</> ou tenue de plongée + Ghillie\r\n\r\nMonture : <RichColor Color=\"1,0,0,1\">Megatherium</> haut niveau\r\n\r\nAprès avoir tué un insecte, le Megatherium obtient un buff massif de dégâts et d’XP.\r\nAvec une note active, tu peux gagner des millions d’XP en une seule sortie.\r\n\r\n2. Élevage de <RichColor Color=\"1,0,0,1\">bébés indésirables</>\r\n\r\nPour le breeding de dinos puissants (Giga, Carcha, Rex) :\r\n\r\nFais éclore les œufs\r\n\r\nNe réclame pas les bébés aux mauvaises stats\r\n\r\nTue-les avec une arme de mêlée\r\n\r\nL’XP équivaut à celle d’un adulte, avec très peu de vie.\r\nUn bébé Giga donne une XP phénoménale.\r\n\r\n<RichColor Color=\"1,0,0,1\">Phase 4 : Dépasser le niveau 105</> (Ascension)\r\n\r\nLe niveau est bloqué à <RichColor Color=\"1,0,0,1\">105</> par défaut.\r\nPour atteindre <RichColor Color=\"1,0,0,1\">135+</>, tu dois Ascensionner :\r\n\r\nVaincre l’<RichColor Color=\"1,0,0,1\">Overseer</> : +15 niveaux\r\n\r\nTrouver toutes les Notes d’Explorateur : +10 niveaux\r\n\r\nMonter un <RichColor Color=\"1,0,0,1\">Chibi</> : jusqu’à +5 niveaux permanents via les Alphas\r\n"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Commandes utiles",
+				"imageurl": "",
+				"content": [
+					{
+						"title": "Commandes / en dans le tchat",
+						"text": "<RichColor Color=\"1,0,0,1\">/genderswap</> – Exécuter la commande en regardant la créature. Ne fonctionne pas sur les créatures sans sexe ou castrées.\r\n\r\n<RichColor Color=\"1,0,0,1\">/sdc</> – Exemple : <RichColor Color=\"1,0,0,1\">/sdc</> 1 2. Pour connaître le nombre de jetons disponibles, utilisez la commande <RichColor Color=\"1,0,0,1\">/dctokens</>. Les couleurs appliquées seront conservées pour les futures reproductions.\r\n\r\n<RichColor Color=\"1,0,0,1\">/grow</> – Exécuter la commande en regardant la créature afin de la faire passer à l’âge adulte.\r\n\r\n<RichColor Color=\"1,0,0,1\">/hatch</> – Fait éclore les œufs ou termine une gestation en cours.\r\n\r\n<RichColor Color=\"1,0,0,1\">/imprint</> – Exécuter la commande en regardant la créature. Un cryo/décryo du dinosaure est nécessaire pour que le changement soit visible.\r\n\r\n<RichColor Color=\"1,0,0,1\">/claim</> – Permet de revendiquer tous les bébés présents dans une zone de 30 fondations.\r\n\r\n<RichColor Color=\"1,0,0,1\">/resetcd</> – Réinitialise le temps d’attente entre deux accouplements du dinosaure ciblé.\r\n\r\n<RichColor Color=\"1,0,0,1\">/resetcdaoe</> – Réinitialise le temps d’attente entre deux accouplements de tous les dinosaures dans une zone de 30 fondations.\r\n\r\n<RichColor Color=\"1,0,0,1\">/getloot</> index – Restaure un corps ou un cache d’objets à partir d’un index ou de la dernière mort, sans argument.\r\n\r\n<RichColor Color=\"1,0,0,1\">/myloot</> – Affiche l’ensemble des corps existants sur la carte."
+					},
+					{
+						"title": "Commandes principales",
+						"text": "<RichColor Color=\"1,0,0,1\">/tokens</> – Affiche le nombre de jetons disponibles pour chaque commande slash.\r\n\r\n<RichColor Color=\"1,0,0,1\">/limits</> – Affiche toutes les informations de limites.\r\n\r\n<RichColor Color=\"1,0,0,1\">/decaytime</> – Permet de vérifier les temps de dégradation (decay) lorsque vous regardez une structure appartenant à votre tribu."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Decay des bases",
+				"imageurl": "https://i.imgur.com/iuIDGxP.png",
+				"content": [
+					{
+						"title": "Pourquoi utilise t-on un auto decay différent des serveurs officiels ?",
+						"text": "L’<RichColor Color=\"1,0,0,1\">auto decay</> actif sur nos serveurs <RichColor Color=\"1,0,0,1\">PVE</> permet de supprimer rapidement toutes les structures abandonnées de moins de <RichColor Color=\"1,0,0,1\">25 structures</>, et instantanément les structures abandonnées depuis plus de <RichColor Color=\"1,0,0,1\">12 jours</>.\r\nCe fonctionnement diffère des serveurs officiels, où plusieurs semaines sont nécessaires avant la suppression des structures.\r\n\r\nLes joueurs ne s’étant pas connectés pendant <RichColor Color=\"1,0,0,1\">12 jours</> verront leur base et leurs dinosaures automatiquement dépop.\r\n\r\nSi une base ou un avant-poste contient moins de <RichColor Color=\"1,0,0,1\">25 structures</> connectées entre elles dans une zone de <RichColor Color=\"1,0,0,1\">10 fondations</>, celle-ci sera <RichColor Color=\"1,0,0,1\">dépop en 2 jours</>.\r\n\r\nToutes les petites structures (feu de camp, sac de couchage, etc.) sont également <RichColor Color=\"1,0,0,1\">automatiquement dépop</>.\r\n\r\nPour vérifier le timer de dépop d’une structure, regardez-la et utilisez la commande <RichColor Color=\"1,0,0,1\">/decaytime</> dans le chat du jeu.\r\n\r\nMerci de vérifier attentivement que vos structures sont bien snap les unes aux autres.\r\n\r\nPour savoir si vos structures ont été supprimées, vous pouvez consulter le salon <RichColor Color=\"1,0,0,1\">decay</> sur notre <RichColor Color=\"1,0,0,1\">Discord</>.\r\nAucune restauration ne sera possible une fois la suppression effectuée."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/AAQhg7nN3B"
+			},
+			{
+				"text": "Boutique",
+				"url": "https://arkfrance.tip4serv.com/"
+			},
+			{
+				"text": "Actualités ARK",
+				"url": "https://ark-france.fr/"
+			},
+			{
+				"text": "Mise à jour du jeu",
+				"url": "https://ark-france.fr/patch-notes-ark-survival-ascended-en-francais/"
+			},
+			{
+				"text": "Merch ARK FRANCE",
+				"url": "https://boutique.ark-france.fr/"
+			}
+		],
+		"version": 2
+	}
+}
